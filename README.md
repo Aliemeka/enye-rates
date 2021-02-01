@@ -9,5 +9,5 @@ This api gets the currency rates and returns it as a response.
 
 ### getRates route
 ```
-/api?base=[base]&currency=[currency]
+/api/rates?base=[base]&currency=[currency]
 ```
